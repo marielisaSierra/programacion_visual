@@ -1,0 +1,5 @@
+print("digita un numero")
+numero1 = int(input())
+print("digita otro numero")
+numero2 = int(input())
+print(numero1 - numero2)

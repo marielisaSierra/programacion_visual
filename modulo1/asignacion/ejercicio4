@@ -1,0 +1,6 @@
+print("el area de un rectagulo es igual a la multiplicacion de sus unidades.")
+print("otorgale valor a la primera unidad")
+unidad1 = int(input())
+print("otorgale valor a la segunda unidad")
+unidad2 = int(input())
+print(unidad1 * unidad2)
