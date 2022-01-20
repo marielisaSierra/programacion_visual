@@ -1,19 +1,8 @@
-rango = []
 
-print("digite un valor")
-valor1 = int(input())
-print("digite otro valor")
-valor2 = int(input())
-
-
-
-
-
-print("imprimiendo valores")
-list = range(valor1, valor2)
-
-for l in list:
-    print(l)
+print("digita tu apellido")
+apellido = input()
+for i in range (apellido):
+  print(i)
 
       
 

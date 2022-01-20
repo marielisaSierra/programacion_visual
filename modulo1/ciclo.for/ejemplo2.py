@@ -3,7 +3,7 @@
 # 1. imprimir letras
 nombre = "ramona alcachofa"
 
-for letra in nombre
+for letra in nombre:
   print(letra)
 
 
