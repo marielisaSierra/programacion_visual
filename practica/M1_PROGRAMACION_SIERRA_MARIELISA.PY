@@ -6,6 +6,7 @@ nombre = input()
 print("digite su edad")
 edad = int(input())
 while edad > 120:
+  print("digite una edad correcta")
   edad = int(input())
 print("digite un nummero")
 numero1 = int(input() )
